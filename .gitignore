@@ -1,0 +1,25 @@
+# Ignore database backup files
+*.sql~
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python files (if you expand the project)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+
+# Ignore IDE/editor config
+.vscode/
+.idea/
+*.swp
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore environment files
+.env
